@@ -1,0 +1,3 @@
+git init - for start a program in the folder
+git status - to see your documents 
+git add - to add your document 
