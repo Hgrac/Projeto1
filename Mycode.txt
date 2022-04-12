@@ -1,3 +1,6 @@
 git init - for start a program in the folder
 git status - to see your documents 
 git add - to add your document 
+git add . - to add all document in your git
+git commit "commit name" - to send to chain
+git remote add origin (git link) - to save your repository in your project
